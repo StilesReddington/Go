@@ -7,3 +7,10 @@ Comitted changes to this file at 10:12 EST
 Committed chnahes to this file at 13:10 EST   -Typed data only then committed
 
 Committed changes to this file 15:48 EST
+id	first_name	last_name	email	gender	AMI Fake 8	AMI Fake 10	SSN  Fake	SSN  Fake 9	CCN  Fake	11,12,13,14 digit Number	Password  Fake	UserName  Fake		Name	Identity Card Number	Gender	Birthday	Age	Address
+1	Gun	Witcherley	gwitcherley0@wufoo.com	Male	U83773893	U8377389301	898-58-4743	898584743	3567959597335970	12345678910	sHX7cYjyF	gwitcherley0	123-4567-8919	廖婉	O262251268	female	19940519	24	羅厝大坵村九江路八段498巷161號39樓, 新竹市北區, 890
+2	Mabel	Fransewich	mfransewich1@google.nl	Female	U34341262	U3434126201	619-48-2394	619482394	63045469653127100	12345678911	cDgTosg	mfransewich1	123-4567-8920	廖婉	O262251269	female	19940519	24	羅厝大坵村九江路八段498巷161號39樓, 新竹市北區, 891
+3	Roberto	Fessby	rfessby2@wsj.com	Male	U 12183021	U 1218302101	6 76-90-2649	676902649	2 01957714439906	12345678912	JpNtIPdXZL	rfessby2	123-4567-8921	凌信	X133335802	male	19761110	42	水美街669巷883號5樓, 澎湖縣望安鄉, 646
+4	Brian	Tezure	btezure3@bizjournals.com	Male	U 79020593	U 7902059301	8 69-20-7925	8 69207925	3 567579515371750	12345678913	8PNPB8K	btezure3	123-4567-8922	愛欣佩	X284596048	female	19731130	45	鳳仁街一段541號94樓, 澎湖縣西嶼鄉, 043
+5	Genny	Lawland	glawland4@about.me	Female	U64348923	U 6434892301	6 58-68-5499	6 58685499	4 175009414226840	12345678914	RaQEvPv02	glawland4	123-4567-8923	胥美	M165408103	male	19860910	32	科雅六街四段490巷599號70樓, 南投縣魚池鄉, 470-60
+
