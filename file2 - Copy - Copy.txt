@@ -155,6 +155,9 @@ file 2
 file 2
 file 2
 file 2
+
+One small edit from Gitdesktop
+
 file 2
 file 2
 file 2
