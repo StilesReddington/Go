@@ -1,4 +1,20 @@
 Newline inserted March 3 2025 to commit.
+Copy Paste Commit Start
+Types of Test Data
+Let’s take a look in detail.
+
+1. Valid Test Data
+As the name implies, this is the data that your program expects and should operate on. You want to create tests with valid data to make sure that the program functions as expected when using data that meets your integrity and validation criteria.
+
+For instance, if you do integration tests as part of a login use case, you will want to provide a correct username and password (in this scenario, valid data) and check that the user is logged in properly.
+
+2. Invalid Test Data
+It’s important to make sure that your program knows how to handle data that doesn’t conform to your data integrity and validation requirements.
+
+First things first: your application must not process invalid data as valid data. The code should identify that this data is invalid and handle it accordingly. Usually, invalid input can result in one of the following:
+
+Copy paste commit end
+
 test
 MSIS-ID, MSIS ID, MSIS #, HICN, HIC #, HIC ID, MedicareID, Medicare ID, MedicaidID, Medicaid
 ID, SOCIAL_SEC
